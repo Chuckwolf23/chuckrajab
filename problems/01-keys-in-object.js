@@ -11,7 +11,7 @@ let foods = {apple: 'tart', lemon: 'sour', mango: 'sweet'}
 keysInObject(animals); // => ["dog", "cat", "bison"]
 keysInObject(foods); // => ["apple", "lemon", "mango"]
 ***********************************************************************/
-//console.log()
+
 function keysInObject(obj) {
   // Your code here
 }
